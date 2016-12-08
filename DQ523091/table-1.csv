@@ -1,0 +1,74 @@
+﻿Table 1.
+        .
+Species,Location,Region/Country,Cyt b,12S,16S
+A. femoralis,Boca Manu,Cuzco<comma> Peru,DQ523139,DQ522998,DQ523069
+A. femoralis,Mazuko,Madre de Dios<comma> Peru,DQ523125,DQ522984,DQ523055
+A. femoralis,Rio Manati,Iquitos<comma> Loreto<comma> Peru,DQ523110,DQ522969,DQ523040
+A. femoralis,Rio Sucusari,Iquitos<comma> Loreto<comma> Peru,DQ523093,DQ522952,DQ523023
+A. femoralis,Saposoa,Tarapoto<comma> San Martin<comma> Peru,DQ523152,DQ523011,DQ523082
+A. femoralis,Shucshuyacu,Yurimaguas<comma> Loreto<comma> Peru,DQ523142,DQ523001,DQ523072
+A. femoralis,Itaya River,Iquitos<comma> Loreto<comma> Peru,DQ523132,DQ522991,DQ523062
+A. femoralis,Nauta Road,Iquitos<comma> Loreto<comma> Peru,DQ523129,DQ522988,DQ523059
+A. femoralis,Tahuayo,Iquitos<comma> Loreto<comma> Peru,DQ523095,DQ522954,DQ523025
+Colostethus sp,Near Bonilla,Tarapoto<comma> San Martin<comma> Peru,DQ523118,DQ522977,DQ523048
+Epipedobates bassleri,Altoshima,Tarapoto<comma> San Martin<comma> Peru,DQ523153,DQ523012,DQ523083
+E. bassleri,Road to Yurimaguas,Tarapoto<comma> San Martin<comma> Peru,DQ523115,DQ522974,DQ523045
+E. bassleri,Road to Yurimaguas,Tarapoto<comma> San Martin<comma> Peru,DQ523150,DQ523009,DQ523080
+E. bassleri,Road to Sisa,Tarapoto<comma> San Martin<comma> Peru,DQ523140,DQ522999,DQ523070
+E. bassleri,Road to Sisa,Tarapoto<comma> San Martin<comma> Peru,DQ523143,DQ523002,DQ523073
+E. bassleri,Road to Sisa,Tarapoto<comma> San Martin<comma> Peru,DQ523155,DQ523014,DQ523085
+E. bassleri,Rd to Moyobamba,Tarapoto<comma> San Martin<comma> Peru,DQ523113,DQ522972,DQ523043
+E. bassleri,Near Chazuta,Tarapoto<comma> San Martin<comma> Peru,DQ523157,DQ523016,DQ523087
+E. bassleri,Saposoa,Tarapoto<comma> San Martin<comma> Peru,DQ523158,DQ523017,DQ523088
+E. bassleri,Sauce,Tarapoto<comma> San Martin<comma> Peru,DQ523130,DQ522989,DQ523060
+E. bassleri,Huallaga Canyon,Tarapoto<comma> San Martin<comma> Peru,DQ523127,DQ522986,DQ523057
+E. bilinguis,Primavera,Napo<comma> Ecuador,DQ523144,DQ523003,DQ523074
+E. cainarachi,Cainarachi Valley,Tarapoto<comma> San Martin<comma> Peru,DQ523123,DQ522982,DQ523053
+E. cainarachi,Road to Yurimaguas,Tarapoto<comma> San Martin<comma> Peru,DQ523094,DQ522953,DQ523024
+E. hahneli,Aguamo-Muyuma,Tarapoto<comma> San Martin<comma> Peru,DQ523107,DQ522966,DQ523037
+E. hahneli,Amazonas,Amazonas<comma> Brazil,DQ523133,DQ522992,DQ523063
+E. hahneli,Amazonas,Amazonas<comma> Brazil,DQ523137,DQ522996,DQ523067
+E. hahneli,Boca Manu,Cuzco<comma> Peru,DQ523097,DQ522956,DQ523027
+E. hahneli,Convento,Tarapoto<comma> San Martin<comma> Peru,DQ523102,DQ522961,DQ523032
+E. hahneli,Itaya River,Iquitos<comma> Loreto<comma> Peru,DQ523103,DQ522962,DQ523033
+E. hahneli,Ivochote,Cuzco<comma> Peru,DQ523108,DQ522967,DQ523038
+E. hahneli,Road to Sisa,Tarapoto<comma> San Martin<comma> Peru,DQ523149,DQ523008,DQ523079
+E. hahneli,Near Chazuta,Tarapoto<comma> San Martin<comma> Peru,DQ523121,DQ522980,DQ523051
+E. hahneli,Porto Walter,Acre<comma> Brazil,DQ523134,DQ522993,DQ523064
+E. hahneli,Rio Amigos,Madre de Dios<comma> Peru,DQ523126,DQ522985,DQ523056
+E. hahneli,Rio Manati,Iquitos<comma> Loreto<comma> Peru,DQ523145,DQ523004,DQ523075
+E. hahneli,Saposoa,Tarapoto<comma> San Martin<comma> Peru,DQ523156,DQ523015,DQ523086
+E. hahneli,Itaya River,Iquitos<comma> Loreto<comma> Peru,DQ523131,DQ522990,DQ523061
+E. hahneli,Alto Purus River,Ucayali<comma> Peru,DQ523104,DQ522963,DQ523034
+E. hahneli,Alto Purus River,Ucayali<comma> Peru,DQ523111,DQ522970,DQ523041
+E. hahneli,Alto Purus River,Ucayali<comma> Peru,DQ523151,DQ523010,DQ523081
+E. hahneli,Cachiyacu Road,Tarapoto<comma> San Martin<comma> Peru,DQ523092,DQ522951,DQ523022
+E. hahneli,Cachiyacu Road,Tarapoto<comma> San Martin<comma> Peru,DQ523096,DQ522955,DQ523026
+E. hahneli,Cachiyacu Road,Tarapoto<comma> San Martin<comma> Peru,DQ523148,DQ523007,DQ523078
+E. hahneli,Valle San Antonio,Tarapoto<comma> San Martin<comma> Peru,DQ523119,DQ522978,DQ523049
+E. macero,Ivochote,Cuzco<comma> Peru,DQ523109,DQ522968,DQ523039
+E. macero,Alto Purus River,Ucayali<comma> Peru,,DQ523018,DQ523089
+E. pongoensis,Convento,Tarapoto<comma> San Martin<comma> Peru,DQ523114,DQ522973,DQ523044
+E. pongoensis,Huallaga Canyon,Tarapoto<comma> San Martin<comma> Peru,DQ523146,DQ523005,DQ523076
+E. silverstonei,Cordillera Azul,Huanuco<comma> Peru,DQ523154,DQ523013,DQ523084
+E. simulans,Mazuko,Madre de Dios<comma> Peru,DQ523159,DQ523019,
+E. simulans,Quincemille,Cuzco<comma> Peru,DQ523160,DQ523020,DQ523090
+E. smaragdinus,Iscozazin,Pasco<comma> Peru,DQ523112,DQ522971,DQ523042
+E. trivittatus,Amazonas,Amazonas<comma> Brazil,DQ523135,DQ522994,DQ523065
+E. trivittatus,Alto Purus River,Ucayali<comma> Peru,DQ523098,DQ522957,DQ523028
+E. trivittatus,Road to Barranquita,Tarapoto<comma> San Martin<comma> Peru,DQ523128,DQ522987,DQ523058
+E. trivittatus,Near Bonilla,Tarapoto<comma> San Martin<comma> Peru,DQ523124,DQ522983,DQ523054
+E. trivittatus,Near Chazuta,Tarapoto<comma> San Martin<comma> Peru,DQ523141,DQ523000,DQ523071
+E. trivittatus,Chumilla,San Martin<comma> Peru,DQ523100,DQ522959,DQ523030
+E. trivittatus,,French Guiana,DQ523147,DQ523006,DQ523077
+E. trivittatus,Iscozazin,Pasco<comma> Peru,DQ523116,DQ522975,DQ523046
+E. trivittatus,Cordillera Azul,San Martin<comma> Peru,DQ523120,DQ522979,DQ523050
+E. trivittatus,Porto Walter,Acre<comma> Brazil,DQ523099,DQ522958,DQ523029
+E. trivittatus,Rio Manati,Iquitos<comma> Loreto<comma> Peru,DQ523101,DQ522960,DQ523031
+E. trivittatus,Rio Sucusari,Iquitos<comma> Loreto<comma> Peru,DQ523106,DQ522965,DQ523036
+E. trivittatus,Cordillera Oriental,Amazonas<comma> Peru,DQ523138,DQ522997,DQ523068
+E. trivittatus,Santa Rosa,Huanuco<comma> Peru,DQ523117,DQ522976,DQ523047
+E. trivittatus,Tahuayo River,Iquitos<comma> Loreto<comma> Peru,DQ523105,DQ522964,DQ523035
+E. trivittatus,Tahuayo River,Iquitos<comma> Loreto<comma> Peru,DQ523122,DQ522981,DQ523052
+E. trivittatus,Tahuayo River,Iquitos<comma> Loreto<comma> Peru,DQ523136,DQ522995,DQ523066
+E. trivittatus,Shilcayo Valley,Tarapoto<comma> San Martin<comma> Peru,DQ523091,DQ522950,DQ523021
