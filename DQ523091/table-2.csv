@@ -1,74 +1,72 @@
-﻿Table 2.
-        .
-Species/Code,Location,Elevation,Coordinates
-Allobates femoralisP1,Itaya<comma> Loreto<comma> Peru,100 m,S 4.45′ W 73.57′
-A. femoralisP2,Itaya<comma> Loreto<comma> Peru,100 m,S 4.45′ W 73.57′
-A. femoralisP3,Loreto<comma> Peru,Lowland,NA
-A. femoralisP4,Boca Manu<comma> Cuzco<comma> Peru,250 m,S12.25′ W 70.9′
-A. femoralisP5,Saposoa<comma> San Martin<comma> Peru,850 m,S 6.77107′<comma> W 76.94120′
-A. femoralisP6,Loreto<comma> Peru,Lowland,NA
-A. femoralisP7,Rio Sucusari<comma> Loreto<comma> Peru,100 m,S 3.24073′ W 72.92835′
-A. femoralisP8,Tahuayo<comma> Loreto<comma> Peru,140 m,S 4.18707′ W 73.10457′
-A. femoralisP9,Loreto<comma> Peru,Lowland,NA
-A. femoralisP10,Rio Manova Loreto<comma> Peru,110 m,S 3.65201′ W 72.20045′
-Colostethus sp.,Bonilla<comma> San Martin<comma> Peru,200 m,S 6.21007′ W 76.27226′
-Epipedobates bassleriP1,Saposoa<comma> San Martin<comma> Peru,850 m,S 6.77107′<comma> W 76.94120′
-E. bassleriP2,Altoshima<comma> San Martin<comma> Peru,670 m,available upon request
-E. bassleriP3,Chazuta<comma> San Martin<comma> Peru,560 m,available upon request
-E. bassleriP4,Sauce<comma> San Martin<comma> Peru,720 m,available upon request
-E. bassleriP5,Huallaga<comma> San Martin<comma> Peru,390 m,available upon request
-E. bassleriP6,Cainarachi<comma> San Martin<comma> Peru,920 m,S 6.48726′ W 76.31520′
-E. bassleriP7,Tarapoto<comma> San Martin<comma> Peru,760 m,S 6.47152′ W 76.30297′
-E. bassleriP8,Sisa<comma> San Martin<comma> Peru,550 m,available upon request
-E. bassleriP9,Sisa<comma> San Martin<comma> Peru,550 m,available upon request
-E. bassleriP10,Tarapoto<comma> San Martin<comma> Peru,780 m,S 6.43307′ W 76.30383′
-E. bassleriP11,Moyobamba<comma> San Martin<comma> Peru,320 m,S 6.32393′ W 76.73437′
-E. bilinguis,Primavera<comma> Napo<comma> Ecuador,300 m,S 0.23544′ W 76.96819′
-E. cainarachiP1,Cainarachi<comma> San Martin<comma> Peru,350 m,S 6.45043′ W 76.31758′
-E. cainarachiP2,Tarapoto<comma> San Martin<comma> Peru,770m,S 6.43536′ W 76.35011′
-E. hahneliB1,Amazonas<comma> Brazil,50 m,NA
-E. hahneliB2,Amazonas<comma> Brazil,50 m,NA
-E. hahneliP1,Ivochote<comma> Cuzco<comma> Peru,620 m,S12.47086′ W 72.99389′
-E. hahneliP2,Sisa<comma> San Martin<comma> Peru,650 m,S 6.58299′ W 76.50974′
-E. hahneliP2,Tarapoto<comma> San Martin<comma> Peru,500 m,NA
-E. hahneliP3,Tarapoto<comma> San Martin<comma> Peru,500 m,NA
-E. hahneliP4,Tarapoto<comma> San Martin<comma> Peru,600 m,S 6.47777′ W 76.32274′
-E. hahneliP6,Saposoa<comma> San Martin<comma> Peru,850 m,S 6.77107′ W 76.94120′
-E. hahneliP7,Chazuta<comma> San Martin<comma> Peru,560 m,S 6.52818′ W 76.13942′
-E. hahneliP8,Tarapoto<comma> San Martin<comma> Peru,500 m,NA
-E. hahneliP9,Tarapoto San Martin<comma> Peru,600 m,S 6.47777′ W 76.32274′
-E. hahneliP11,Itaya<comma> Loreto<comma> Peru,100 m,S 4.45′ W 73.57′
-E. hahneliP10,Rio Manova Loreto<comma> Peru,110 m,S 3.65201′ W 72.20045′
-E. hahneliP12,Itaya<comma> Loreto<comma> Peru,100 m,S 4.45′ W 73.57′
-E. hahneliP13,Convento<comma> San Martin<comma> Peru,200 m,S 6.25107′ W 76.31459′
-E. hahneliP14,Alto Purus<comma> Ucayali<comma> Peru,300 m,S10.90′ W 73.17′
-E. hahneliP15,Alto Purus<comma> Ucayali<comma> Peru,300 m,S10.90′ W 73.17′
-E. hahneliP16,Alto Purus<comma> Ucayali<comma> Peru,300 m,S10.90′ W 73.17′
-E. hahneliP I7,Allpahuayo<comma> Loreto<comma> Peru,130 m,S 3.87′ W 73.57′
-E. hahneliP18,Boca Manu<comma> Cuzco<comma> Peru,250 m,S12.25′ W 70.9′
-E. maceroP1,Ivochote<comma> Cuzco<comma> Peru,620 m,S 12.47086′ W 72.99385′
-E. maceroP2,Alto Purus<comma> Ucayali<comma> Peru,300 m,S10.90′ W 73.17′
-E. pongoensisP1,Convento<comma> San Martin<comma> Peru,200 m,S 6.25107′ W 76.31459′
-E. pongoensisP2,Huallaga<comma> San Martin<comma> Peru,390 m,S 6.54870′ W 75.96169′
-E. silverstonei,Tingo Maria<comma> Huanuco<comma> Peru,1000 m,S 9.31918′ W 75.97697′
-E. simulansP1,Madre de Dios<comma> Peru,380 m,S12.97040′ W 70.34107′
-E. simulansP2,Quincemille<comma> Cuzco<comma> Peru,490 m,S13.18396′ W 70.63308′
-E. smaragdinus,Iscozazin<comma> Pasco<comma> Peru,350 m,S10.18879′ W 75.16052′
-E. trivittatusB1,Amazonas<comma> Brazil,50 m,NA
-E. trivittatusB2,Porto Walter<comma> Acre<comma> Brazil,200 m,S8.25′ W 72.74′
+﻿Species/Code,Location,Elevation,Coordinates
+Allobates femoralisP1,Itaya, Loreto, Peru,100 m,S 4.45′ W 73.57′
+A. femoralisP2,Itaya, Loreto, Peru,100 m,S 4.45′ W 73.57′
+A. femoralisP3,Loreto, Peru,Lowland,NA
+A. femoralisP4,Boca Manu, Cuzco, Peru,250 m,S12.25′ W 70.9′
+A. femoralisP5,Saposoa, San Martin, Peru,850 m,S 6.77107′, W 76.94120′
+A. femoralisP6,Loreto, Peru,Lowland,NA
+A. femoralisP7,Rio Sucusari, Loreto, Peru,100 m,S 3.24073′ W 72.92835′
+A. femoralisP8,Tahuayo, Loreto, Peru,140 m,S 4.18707′ W 73.10457′
+A. femoralisP9,Loreto, Peru,Lowland,NA
+A. femoralisP10,Rio Manova Loreto, Peru,110 m,S 3.65201′ W 72.20045′
+Colostethus sp.,Bonilla, San Martin, Peru,200 m,S 6.21007′ W 76.27226′
+Epipedobates bassleriP1,Saposoa, San Martin, Peru,850 m,S 6.77107′, W 76.94120′
+E. bassleriP2,Altoshima, San Martin, Peru,670 m,available upon request
+E. bassleriP3,Chazuta, San Martin, Peru,560 m,available upon request
+E. bassleriP4,Sauce, San Martin, Peru,720 m,available upon request
+E. bassleriP5,Huallaga, San Martin, Peru,390 m,available upon request
+E. bassleriP6,Cainarachi, San Martin, Peru,920 m,S 6.48726′ W 76.31520′
+E. bassleriP7,Tarapoto, San Martin, Peru,760 m,S 6.47152′ W 76.30297′
+E. bassleriP8,Sisa, San Martin, Peru,550 m,available upon request
+E. bassleriP9,Sisa, San Martin, Peru,550 m,available upon request
+E. bassleriP10,Tarapoto, San Martin, Peru,780 m,S 6.43307′ W 76.30383′
+E. bassleriP11,Moyobamba, San Martin, Peru,320 m,S 6.32393′ W 76.73437′
+E. bilinguis,Primavera, Napo, Ecuador,300 m,S 0.23544′ W 76.96819′
+E. cainarachiP1,Cainarachi, San Martin, Peru,350 m,S 6.45043′ W 76.31758′
+E. cainarachiP2,Tarapoto, San Martin, Peru,770m,S 6.43536′ W 76.35011′
+E. hahneliB1,Amazonas, Brazil,50 m,NA
+E. hahneliB2,Amazonas, Brazil,50 m,NA
+E. hahneliP1,Ivochote, Cuzco, Peru,620 m,S12.47086′ W 72.99389′
+E. hahneliP2,Sisa, San Martin, Peru,650 m,S 6.58299′ W 76.50974′
+E. hahneliP2,Tarapoto, San Martin, Peru,500 m,NA
+E. hahneliP3,Tarapoto, San Martin, Peru,500 m,NA
+E. hahneliP4,Tarapoto, San Martin, Peru,600 m,S 6.47777′ W 76.32274′
+E. hahneliP6,Saposoa, San Martin, Peru,850 m,S 6.77107′ W 76.94120′
+E. hahneliP7,Chazuta, San Martin, Peru,560 m,S 6.52818′ W 76.13942′
+E. hahneliP8,Tarapoto, San Martin, Peru,500 m,NA
+E. hahneliP9,Tarapoto San Martin, Peru,600 m,S 6.47777′ W 76.32274′
+E. hahneliP11,Itaya, Loreto, Peru,100 m,S 4.45′ W 73.57′
+E. hahneliP10,Rio Manova Loreto, Peru,110 m,S 3.65201′ W 72.20045′
+E. hahneliP12,Itaya, Loreto, Peru,100 m,S 4.45′ W 73.57′
+E. hahneliP13,Convento, San Martin, Peru,200 m,S 6.25107′ W 76.31459′
+E. hahneliP14,Alto Purus, Ucayali, Peru,300 m,S10.90′ W 73.17′
+E. hahneliP15,Alto Purus, Ucayali, Peru,300 m,S10.90′ W 73.17′
+E. hahneliP16,Alto Purus, Ucayali, Peru,300 m,S10.90′ W 73.17′
+E. hahneliP I7,Allpahuayo, Loreto, Peru,130 m,S 3.87′ W 73.57′
+E. hahneliP18,Boca Manu, Cuzco, Peru,250 m,S12.25′ W 70.9′
+E. maceroP1,Ivochote, Cuzco, Peru,620 m,S 12.47086′ W 72.99385′
+E. maceroP2,Alto Purus, Ucayali, Peru,300 m,S10.90′ W 73.17′
+E. pongoensisP1,Convento, San Martin, Peru,200 m,S 6.25107′ W 76.31459′
+E. pongoensisP2,Huallaga, San Martin, Peru,390 m,S 6.54870′ W 75.96169′
+E. silverstonei,Tingo Maria, Huanuco, Peru,1000 m,S 9.31918′ W 75.97697′
+E. simulansP1,Madre de Dios, Peru,380 m,S12.97040′ W 70.34107′
+E. simulansP2,Quincemille, Cuzco, Peru,490 m,S13.18396′ W 70.63308′
+E. smaragdinus,Iscozazin, Pasco, Peru,350 m,S10.18879′ W 75.16052′
+E. trivittatusB1,Amazonas, Brazil,50 m,NA
+E. trivittatusB2,Porto Walter, Acre, Brazil,200 m,S8.25′ W 72.74′
 E. trivittatusFG,French Guiana,200 m,S 3.9′ W 53.0′
-E. trivittatusP1,Rio Sucusari<comma> Loreto<comma> Peru,100 m,S 3.24073′ W 72.92835′
-E. trivittatusP2,Iscozazin<comma> Pasco<comma> Peru,350 m,S 10.18879′ W 75.16052′
-E. trivittatusP3,Panasa<comma> San Martin<comma> Peru,Lowland,NA
-E. trivittatusP4,Tahuayo<comma> Loreto<comma> Peru,140 m,S 4.18707′ W 73.10457′
-E. trivittatusP5,Tahuayo<comma> Loreto<comma> Peru,140 m,S 4.18707′ W 73.10457′
-E. trivittatusP6,Santa Rosa<comma> Huanuco<comma> Peru,Lowland,NA
-E. trivittatusP7,Chazuta<comma> San Martin<comma> Peru,260 m,S 6.57434′ W 76.14362′
-E. trivittatusP8,Barranquita<comma> San Martin<comma> Peru,220 m,S 6.28910′ W 76.22865′
-E. trivittatusP9,Chumilla<comma> San Martin<comma> Peru,Lowland,NA
-E. trivittatusP10,Rio Manati<comma> Loreto<comma> Peru,110 m,S 3.65201′ W 72.20045′
-E. trivittatusP11,Loreto<comma> Peru,Lowland,NA
-E. trivittatusP12,Alto Purus<comma> Ucayali<comma> Peru,300 m,S10.90′ W 73.17′
-E. trivittatusP13,Bonilla<comma> San Martin<comma> Peru,200 m,S 6.21007′ W 76.27226′
-E. trivittatusP14,Tarapoto<comma> San Martin<comma> Peru,540 m,S 6.43066′ W 76.29034′
-E. trivittatusP15,Boca Manu<comma> Cuzco<comma> Peru,300 m,S 12.25′ W 70.90′
+E. trivittatusP1,Rio Sucusari, Loreto, Peru,100 m,S 3.24073′ W 72.92835′
+E. trivittatusP2,Iscozazin, Pasco, Peru,350 m,S 10.18879′ W 75.16052′
+E. trivittatusP3,Panasa, San Martin, Peru,Lowland,NA
+E. trivittatusP4,Tahuayo, Loreto, Peru,140 m,S 4.18707′ W 73.10457′
+E. trivittatusP5,Tahuayo, Loreto, Peru,140 m,S 4.18707′ W 73.10457′
+E. trivittatusP6,Santa Rosa, Huanuco, Peru,Lowland,NA
+E. trivittatusP7,Chazuta, San Martin, Peru,260 m,S 6.57434′ W 76.14362′
+E. trivittatusP8,Barranquita, San Martin, Peru,220 m,S 6.28910′ W 76.22865′
+E. trivittatusP9,Chumilla, San Martin, Peru,Lowland,NA
+E. trivittatusP10,Rio Manati, Loreto, Peru,110 m,S 3.65201′ W 72.20045′
+E. trivittatusP11,Loreto, Peru,Lowland,NA
+E. trivittatusP12,Alto Purus, Ucayali, Peru,300 m,S10.90′ W 73.17′
+E. trivittatusP13,Bonilla, San Martin, Peru,200 m,S 6.21007′ W 76.27226′
+E. trivittatusP14,Tarapoto, San Martin, Peru,540 m,S 6.43066′ W 76.29034′
+E. trivittatusP15,Boca Manu, Cuzco, Peru,300 m,S 12.25′ W 70.90′
