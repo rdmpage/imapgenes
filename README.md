@@ -5,6 +5,8 @@ Miraldo, A., Li, S., Borregaard, M. K., Florez-Rodriguez, A., Gopalakrishnan, S.
 
 Article and supplementary data (Miraldo.SM.pdf Data S2, and Curated_codes Data S1), data seqs_info_tsv from http://macroecology.ku.dk/resources/imapgenes/seqs_info_tsv.zip (see the iMapsGene web site http://macroecology.ku.dk/resources/imapgenes/imapgenes_app_beta/ ).
 
+Michael Krabbe Borregaard (an author on the paper also maintains the code in this repository https://github.com/mkborregaard/codes-for-published-papers/tree/master/Miraldo%20et%20al.%202016.
+
 ## Contacts
 David Nogués-Bravo dnogues@snm.ku.dk
 Carsten Rahbek crahbek@snm.ku.dk
